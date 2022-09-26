@@ -1,6 +1,7 @@
 import './App.css';
 import Main from './main/Main';
 import data from "./data.js"
+import Comment from "./comment/Comment"
 
 function App() {
   return (
@@ -15,6 +16,7 @@ function App() {
           image = {item.image}/>
       )}
 
+      <Comment/>
     </div>
   );
 }
