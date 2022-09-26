@@ -12,7 +12,8 @@ function Main(props) {
               <User 
               user={props.user} 
               date={props.date}
-              image={props.image}/>
+              image={props.image}
+              />
               <Content 
               content={props.content}/>
             </div>

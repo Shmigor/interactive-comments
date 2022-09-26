@@ -34,7 +34,11 @@ const data = [
           score: "2",
           replyingTo: "ramsesmiron",
           image: "../images/avatars/image-juliusomo.png",
-          username: "juliusomo"
+          username: "juliusomo",
+          delete: {
+            logo: "../images/icon-delete.svg",
+            text: "Delete"
+          }
         },
         
 ]

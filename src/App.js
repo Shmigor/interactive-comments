@@ -13,7 +13,8 @@ function App() {
           score={item.score}
           date={item.createdAt}
           user={item.username}
-          image = {item.image}/>
+          image = {item.image}
+          />
       )}
 
       <Comment/>
