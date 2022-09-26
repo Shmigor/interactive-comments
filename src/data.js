@@ -5,7 +5,7 @@ const data = [
       content: "Impressive! Though it seems the drag feature could be improved. But overall it looks incredible. You've nailed the design and the responsiveness at various breakpoints works really well.",
       createdAt: "1 month ago",
       score: "12",
-      image: "./images/avatars/image-amyrobson.png",
+      image: "../images/avatars/image-amyrobson.png",
       username: "amyrobson"
     },
     {
@@ -13,7 +13,7 @@ const data = [
       content: "Woah, your project looks awesome! How long have you been coding for? I'm still new, but think I want to dive into React as well soon. Perhaps you can give me an insight on where I can learn React? Thanks!",
       createdAt: "2 weeks ago",
       score: "5",
-      image: "./images/avatars/image-maxblagun.png",
+      image: "../images/avatars/image-maxblagun.png",
       username: "maxblagun"
     },
     
@@ -23,7 +23,7 @@ const data = [
           createdAt: "1 week ago",
           score: "4",
           replyingTo: "maxblagun",
-          image: "./images/avatars/image-ramsesmiron.png",
+          image: "../images/avatars/image-ramsesmiron.png",
           username: "ramsesmiron"
       },
         {
@@ -32,7 +32,7 @@ const data = [
           createdAt: "2 days ago",
           score: "2",
           replyingTo: "ramsesmiron",
-          image: "./images/avatars/image-juliusomo.png",
+          image: "../images/avatars/image-juliusomo.png",
           username: "juliusomo"
         },
         
